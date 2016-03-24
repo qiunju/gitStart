@@ -1,4 +1,4 @@
-package com.rakuten.gep.merchant.api.util;
+
 
 import java.io.IOException;
 import java.math.BigInteger;
